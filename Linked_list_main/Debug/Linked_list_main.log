@@ -1,0 +1,3 @@
+﻿  Linked_list_main.cpp
+C:\Users\Diego\Desktop\Códigos\POO II\LinkedList\Linked_list_main\Linked_list_main.cpp(6,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Linked_list_main.vcxproj -> C:\Users\Diego\Desktop\Códigos\POO II\LinkedList\Linked_list_main\Debug\Linked_list_main.exe
